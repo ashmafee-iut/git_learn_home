@@ -1,1 +1,2 @@
 It is my second file. 
+It is next to commit
