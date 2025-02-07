@@ -1,2 +1,6 @@
 It is my second file. 
 It is next to commit
+A new change:
+Vim text editor: 
+:wq = write and quit
+:q = quit 
