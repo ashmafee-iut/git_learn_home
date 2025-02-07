@@ -3,7 +3,9 @@ It is next to commit
 A new change:
 Vim text editor: 
 :wq = write and quit
-:q = quit   
-Now it is the command "diff"
+:q = quit     
+Now it is the command "diff" rahat
 
-next
+next is the thing I need to know about differene 
+command diff 
+I need to know 
