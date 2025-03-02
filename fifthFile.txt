@@ -1,2 +1,3 @@
 It is a new file created in main branch.
-This file is directly created and modified from GITHUB remote repo
+This file is directly created and modified from GITHUB remote repo.
+So, at the beginning, there is no exixtence of this file to the local repo. 
