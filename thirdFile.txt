@@ -2,7 +2,7 @@ Third file is here
 
 Here I have added some new text on 15 February
 
-Another change on 28 February - to make conflict (05-03-2025)
+Another change on 28 February - solve the merge (05-06-2025)
 Another change in test branch just to modify some texts 
 
 
