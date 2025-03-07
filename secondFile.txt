@@ -8,5 +8,11 @@ Now it is the command "diff" rahat
 
 next is the thing I need to know about differene 
 command diff 
+<<<<<<< HEAD
 I need to know 
 A change from remote repo on 01-03-2025-19-30
+=======
+I need to know differene  
+1
+3
+>>>>>>> testBranch
