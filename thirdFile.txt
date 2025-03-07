@@ -9,3 +9,4 @@ Another conflict change - CC
 
 git rebase - feature 
 f1
+f2
