@@ -7,3 +7,5 @@ Another change in test branch just to modify some texts
 Another conflict change - ZZ
 Another conflict change - CC
 
+git rebase - feature 
+f1
